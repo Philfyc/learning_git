@@ -4,3 +4,4 @@ it is also better than other tools.
 
 fix issue-101
 modify in master
+read parquet
